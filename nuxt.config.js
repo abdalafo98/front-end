@@ -15,8 +15,8 @@ export default {
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
-  css: ["@/assets/css/bootstrap.min.css"],
-  js: ["@/assets/js/bootstrap.min.js"],
+  css: [],
+  js: [],
   // js: ["~/node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
@@ -31,7 +31,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/buefy
-    "nuxt-buefy",
+    
   ],
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
